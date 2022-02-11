@@ -1,7 +1,7 @@
 # Poster-Maker
 Python Script to generate posters out of the images in directory.
 
-This version is very basic ligthweight code to combine organize images of the directory in a single image.
+This version is very basic ligthweight code to combine /organize images of the directory of varying resolutions in a single image.
 Demo:
 ![image](https://github.com/rajcurious/Poster-Maker/blob/master/demo/poster.jpg)
 
